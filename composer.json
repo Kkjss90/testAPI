@@ -1,0 +1,6 @@
+{
+    "name": "a11/test-api",
+    "require": {
+      "ext-pdo": "*"
+    }
+}
